@@ -3,8 +3,7 @@ md# 🚀 Next-Gen Learning Dashboard
 A futuristic student learning dashboard built with Next.js, Supabase, Framer Motion, and Tailwind CSS.
 
 ## 🔗 Live Demo
-[View Live on Vercel](https://learning-dashboard-eosin-ten.vercel.app) ← update this link after deploying
-
+[View Live on Vercel](https://learning-dashboard-eosin-ten.vercel.app)
 ## 🛠️ Tech Stack
 - **Next.js 14** (App Router)
 - **Supabase** (PostgreSQL database)
